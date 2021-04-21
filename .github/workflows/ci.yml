@@ -9,8 +9,8 @@ jobs:
 
     steps:
       -uses: actions/checkout@v1
-      -name: Run a one-line script
-       run: echo "teste"
+      # -name: Run a one-line script
+      #  run: echo "teste"
       -name: Run a multi-line script
        run: 
         echo Add another action to build,
