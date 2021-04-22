@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "title": "My first blog",
+            "body": "lorem ipsum dolor sit amet...",
+            "author": "mariana",
+            "id": 1
+        },
+        {
+            "title": "blog post 2",
+            "body": "lorem ipsum dolor sit amet...",
+            "author": "mari",
+            "id": 2
+        },
+        {
+            "title": "blog post 3",
+            "body": "lorem ipsum dolor sit amet...",
+            "author": "mariana",
+            "id": 3
+        }
+    ],
+    "comments" : [
+        {
+            "id" : 1,
+            "comment": "comment"
+        }
+    ]
+}
